@@ -1,0 +1,3 @@
+docker imahe 
+docker ps
+docker kill container
